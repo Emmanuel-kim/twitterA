@@ -1,0 +1,19 @@
+TWITTER DATA ANALYSIS
+1. Analyze an hashtag and get the total number of tweets in a given hashtag.
+2. Get the number of tweets per user in that hashtag and list them from the 1st to the 10th.
+3. Using the tweet location, show where most of the tweets were tweeted from.
+
+
+
+
+# printing my timeline tweets
+# public_tweets = api.home_timeline()
+# for tweet in public_tweets:
+#     print(tweet.text)
+# get the user object for twitter
+# user = api.get_user('@EmmanuelKimulu')
+# print(user.screen_name)
+# print(user.followers_count)
+# for friend in user.friends():
+#    print(friend.screen_name)
+
